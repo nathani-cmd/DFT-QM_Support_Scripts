@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use these scripts in published research, please cite this repository."
+type: software
+title: "DFT-QM_Support_Scripts"
+abstract: >-
+  Python and Bash scripts used to run quantum mechanical calculations,
+  including density functional theory (DFT), via Gaussian16, ORCA6,
+  and xTB-CREST.
+author: Nathan C. Incandela
+repository-code: "https://github.com/nathani-cmd/DFT-QM_Support_Scripts"
+license: Apache-2.0
+format for citation: Incandela, N. DFT-QM_Support_Scripts; GitHub, YEAR-SCRIPT-UPLOADED. https://github.com/nathani-cmd/DFT-QM_Support_Scripts/NAME-OF-SCRIPT-USED (accessed YYYY-MM-DD).
